@@ -37,15 +37,11 @@
 <p align="Left"> А ТУТ ТЕКСТ ДЛЯ ВЗРОСЛЫХ ДЯДЕК С МЕШКОМ ДЕНЕГ КОТОРЫЙ Я ЖДУ.
 </p>
 
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
 
 ###
 
 <p align="center">
- <img width="300" src="asset/github-snake.svg" alt="snake"/>
+ <img width="600" src="asset/github-snake.svg" alt="snake"/>
 </p>
 
 ###
