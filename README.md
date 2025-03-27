@@ -9,10 +9,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
+  <a href="https://www.youtube.com/Test" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://t.me/tehnomaniak07" target="_blank">
+  <a href="https://t.me/Paul" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   НЕВАЛИДНЫЕ
@@ -58,16 +58,11 @@
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
+![](https://github-readme-stats.vercel.app/api?username=Smekalo4ka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Smekalo4ka&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smekalo4ka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Smekalo4ka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
